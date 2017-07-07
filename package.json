@@ -1,0 +1,26 @@
+{
+  "name": "jest-tutorial",
+  "version": "1.0.0",
+  "description": "A Jest Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Orinami/jest-tutorial.git"
+  },
+  "keywords": [
+    "jest",
+    "javascript"
+  ],
+  "author": "Orinami Olatunji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Orinami/jest-tutorial/issues"
+  },
+  "homepage": "https://github.com/Orinami/jest-tutorial#readme",
+  "devDependencies": {
+    "jest": "^20.0.4"
+  }
+}
