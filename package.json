@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Orinami/jest-tutorial.git"
+    "url": "git+https://github.com/codediger/jest-tutorial.git"
   },
   "keywords": [
     "jest",
@@ -17,9 +17,9 @@
   "author": "Orinami Olatunji",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Orinami/jest-tutorial/issues"
+    "url": "https://github.com/codediger/jest-tutorial/issues"
   },
-  "homepage": "https://github.com/Orinami/jest-tutorial#readme",
+  "homepage": "https://github.com/codediger/jest-tutorial#readme",
   "devDependencies": {
     "jest": "^20.0.4"
   }
